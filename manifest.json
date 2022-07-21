@@ -1,0 +1,23 @@
+{
+    "name": "Yogasleep Ohma",
+    "short_name": "Ohma",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#000a37",
+    "theme_color": "#000a37",
+    "description": "Yogasleep Ohma baby monitor application.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
